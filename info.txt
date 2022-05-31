@@ -1,2 +1,5 @@
 just some text
+
+next line
 another line to see the conflict
+
